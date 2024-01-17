@@ -1,4 +1,4 @@
-# SGC
+# Student Gymkhana Center (SGC) - Rajiv Gandhi University of Knowledge Technologies 
 ## Internships & Career Opportunities Club.
 
 
