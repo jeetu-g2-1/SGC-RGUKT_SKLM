@@ -1,9 +1,11 @@
 # SGC
-SGC-Internships&amp;CareerOpportunitiesClub_Website
-Internship & Career Opportunities Club
+## Internships & Career Opportunities Club.
 
-CLUB OBJECTIVES:
 
+>The primary objective of
+our club is to actively disseminate internship information to
+students.
+### ABOUT CLUB
 To provide guidance and support to students for exploring and applying for internships and job opportunities
 
 Provide guidance and support to members interested in pursuing internships and career opportunities in their field of study or interest Offer resources and advice on resume writing, interviewing skills, networking, and job search
